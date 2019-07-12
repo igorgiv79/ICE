@@ -2,6 +2,8 @@
 // Copyright ©2019 Igor Gomon
 //
 
+#include "pch.h"
+
 #include <iostream>
 #include <string>
 #include <vector>
